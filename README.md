@@ -130,4 +130,3 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 
 [gamalthecreator](https://github.com/gamalthecreator)
 ```
->>>>>>> d23772a (initial commit)

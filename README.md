@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# ar2en
-=======
 # ar2en
 
 A CLI tool for converting text between Arabic and English keyboard layouts.
